@@ -1,0 +1,3 @@
+gameIds=0,1,2,3
+gameNames=GAME0,GAME1,GAME2,GAME3
+args=-env,D:/tmp,-nodeName,GameDBNode0,-nodeHost,127.0.0.1:50002,-helperHost,127.0.0.1:50002
